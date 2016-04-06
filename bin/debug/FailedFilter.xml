@@ -1,0 +1,52 @@
+<Bugs>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="InternalHelper.Tests.ControlObject.TestControlProperties" TestName="TestControlProperties" Pri="Pri2">
+    <Steps>
+      <Step Step="0">Test the control's properties</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsButton">
+        <Repro OS="6.2" ClientSideProvider="T" PS="TBD" ControlPath="SplitButton(NULL)Button(NULL)" Error="Step 0 : AutomationElement.AutomationIdProperty : IsNullOrEmpty() returned true but should have been a valid string" CommandLine="" OSVersion="Microsoft Windows NT 6.2.9200.0" Date="4/6/2016 10:55:42 AM" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.SelectionItemTests.TestAddElementToSelectionS25" TestName="AddElementToSelection.S.2.5" Pri="Pri1">
+    <Steps>
+      <Step Step="0">Precondition: There is a selection container (ie. Win32 radio buttons do not have a selection container</Step>
+      <Step Step="1">Precondition: There is at least 2 element in the selection container</Step>
+      <Step Step="2">Precondition: IsSelectionRequired = true</Step>
+      <Step Step="3">Precondition: SupportsMulitpleSelection = false</Step>
+      <Step Step="4">Precondition: Select element</Step>
+      <Step Step="5">Find some other random unselected element</Step>
+      <Step Step="6">Setup ElementAddedToSelectionEvent event</Step>
+      <Step Step="7">Call AddElementToSelection() with this element and verify that AddElementToSelection() returns true</Step>
+      <Step Step="8">Wait for events</Step>
+      <Step Step="9">Verify ElementAddedToSelection event did not happen</Step>
+    </Steps>
+    <FailedStep Step="7">
+      <Issue Verification="Check_IsTreeItem">
+        <Repro OS="6.2" ClientSideProvider="T" PS="TBD" ControlPath="Tree(NULL)TreeItem(NULL)" Error="Step 7 : The following expection was thrown incorrectly : System.InvalidOperationException and expected: System.ArgumentException" CommandLine="" OSVersion="Microsoft Windows NT 6.2.9200.0" Date="4/6/2016 11:06:44 AM" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.SelectionItemTests.TestSelect29" TestName="AddToSelection.2.9" Pri="Pri3">
+    <Steps>
+      <Step Step="0">Precondition: There is a selection container (ie. Win32 radio buttons do not have a selection container</Step>
+      <Step Step="1">Precondition: Selection container's SelectionPattern.IsSelectionRequired should be true</Step>
+      <Step Step="2">Precondition: Selection container's SelectionPattern.CanSelectMultiple should be false</Step>
+      <Step Step="3">Step: Select some other element incase selection required</Step>
+      <Step Step="4">Step: Add a SelectionItemPattern.IsSelectedProperty property change event</Step>
+      <Step Step="5">Step: Call AddToSelection on the element</Step>
+      <Step Step="6">Step: Wait for one event to occur</Step>
+      <Step Step="7">Verification: Verify that the SelectionItemPattern.IsSelectedProperty was not fired</Step>
+      <Step Step="8">Verify correct elements are selected</Step>
+    </Steps>
+    <FailedStep Step="7">
+      <Issue Verification="Check_IsTreeItem">
+        <Repro OS="6.2" ClientSideProvider="T" PS="TBD" ControlPath="Tree(NULL)TreeItem(NULL)" Error="Step 7 : SelectionItemPatternIdentifiers.IsSelectedProperty event did get fired and was not expected to be fired" CommandLine="" OSVersion="Microsoft Windows NT 6.2.9200.0" Date="4/6/2016 11:06:47 AM" />
+      </Issue>
+    </FailedStep>
+  </Test>
+</Bugs>

@@ -1,0 +1,10 @@
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\WUIATestLibrary.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\WUIATestLibrary.pdb
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\UIATestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\WUIATestLibrary.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\WUIATestLibrary.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\UIATestLibrary.csprojResolveAssemblyReference.cache
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.pdb

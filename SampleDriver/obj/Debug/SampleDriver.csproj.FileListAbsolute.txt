@@ -1,0 +1,12 @@
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.exe.config
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.exe
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.pdb
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csprojResolveAssemblyReference.cache
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.exe
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.exe.config
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.exe
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csprojResolveAssemblyReference.cache
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.exe
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.pdb

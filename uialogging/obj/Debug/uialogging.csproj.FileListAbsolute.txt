@@ -1,0 +1,8 @@
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\UIALogging.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\UIALogging.pdb
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\uialogging\obj\Debug\UIALogging.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\uialogging\obj\Debug\UIALogging.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\UIALogging.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\bin\debug\UIALogging.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\uialogging\obj\Debug\UIALogging.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\uialogging\obj\Debug\UIALogging.pdb

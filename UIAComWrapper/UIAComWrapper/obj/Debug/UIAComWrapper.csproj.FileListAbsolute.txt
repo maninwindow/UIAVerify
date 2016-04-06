@@ -1,0 +1,10 @@
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.pdb
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.csprojResolveAssemblyReference.cache
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.dll
+C:\Users\v-riraza\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.pdb
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.csprojResolveAssemblyReference.cache
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.dll
+D:\SFB\Code\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.pdb
