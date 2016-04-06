@@ -1,10 +1,10 @@
-## UIAVerify
+# UIAVerify
 UIA Verify is a test automation framework that features the User Interface Automation Test Library (UIA Test Library) and Visual UI Automation Verify (Visual UIA Verify), the graphical user interface tool. The framework facilitates manual and automated testing of the Microsoft (R) User Interface (UI) Automation Provider implementation of a control or application. The majority of the UIA Verify functionality is provided through a dynamic link library (e.g., UIATestLibrary.dll) that contains the code for testing specific UI Automation functionality and supports logging of the test results.
 
-# Introduction
+## Introduction
 UI automation framework for Windows desktop Applications
 
-# The MIT License (MIT)
+## The MIT License (MIT)
 
 Copyright (c) 2016 Alimjan
 
