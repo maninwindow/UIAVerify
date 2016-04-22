@@ -4,7 +4,7 @@ UIA Verify is a test automation framework that features the User Interface Autom
 ## Introduction
 UI automation framework for Windows desktop Applications
 
-## The MIT License (MIT)
+### The MIT License (MIT)
 
 Copyright (c) 2016 Alimjan
 
